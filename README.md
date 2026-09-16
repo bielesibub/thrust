@@ -1,3 +1,5 @@
+![Thrust intro screen](https://github.com/bielesibub/thrust/blob/codex/initial-port/thrust.png)
+
 # Thrust — browser reconstruction
 
 A self-contained HTML/JavaScript reconstruction of the BBC Micro game by Jeremy C. Smith, based on [Kieran HJ Connell’s disassembly](https://github.com/kieranhj/thrust-disassembly).
