@@ -2,7 +2,7 @@
 
 A self-contained HTML/JavaScript reconstruction of the BBC Micro game by Jeremy C. Smith, based on [Kieran HJ Connell’s disassembly](https://github.com/kieranhj/thrust-disassembly).
 
-**[▶ Play](https://html-preview.github.io/?url=https://github.com/bielesibub/thrust/main/index.html)** or open `index.html` in a browser, or run:
+**[▶ Play](https://html-preview.github.io/?url=https://github.com/bielesibub/thrust/codex/initial-port/index.html)** or open `index.html` in a browser, or run:
 
 ```sh
 python3 -m http.server 8765 --bind 127.0.0.1
